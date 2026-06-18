@@ -1,0 +1,6 @@
+[submodule "Food-Recommendation-Frontend"]
+	path = Food-Recommendation-Frontend
+	url = https://github.com/heigon77/Food-Recommendation-Frontend
+[submodule "Food-Recommendation-Training"]
+	path = Food-Recommendation-Training
+	url = https://github.com/heigon77/Food-Recommendation-Training
